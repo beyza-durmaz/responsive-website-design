@@ -749,7 +749,7 @@ header {
 
 @media (max-width: 546px) {
     .container img {
-        /* display: none; */
+        display: none;
         right: 30px;
         width: 180px;
         top: 300px;
